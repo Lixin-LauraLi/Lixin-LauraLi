@@ -22,8 +22,3 @@
 - **微信公众号**: 李大妮晒太阳
 - **视频号/小红书**: 晒太阳的李大妮
 - **联系方式**: `lixinhntv` (VX)
-
----
-
-### 📈 GitHub Stats
-![Li Xin's Stats](https://github-readme-stats.vercel.app/api?username=Lixin-LauraLi&show_icons=true&theme=gentle-reflection)
